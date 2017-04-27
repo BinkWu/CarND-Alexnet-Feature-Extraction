@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CarND-Alexnet-Feature-Extraction.iml" filepath="$PROJECT_DIR$/.idea/CarND-Alexnet-Feature-Extraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CarND-Traffic-Sign-Classifier-Project/.idea/CarND-Traffic-Sign-Classifier-Project.iml" filepath="$PROJECT_DIR$/../CarND-Traffic-Sign-Classifier-Project/.idea/CarND-Traffic-Sign-Classifier-Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CarND-Transfer-Learning-Lab/.idea/CarND-Transfer-Learning-Lab.iml" filepath="$PROJECT_DIR$/../CarND-Transfer-Learning-Lab/.idea/CarND-Transfer-Learning-Lab.iml" />
+    </modules>
+  </component>
+</project>
